@@ -1,4 +1,4 @@
-# Video-Editor.Graph
+# Video-Editing.Graph
 https://www.youtube.com/results?search_query=openshot+vs+davinci+resolve
 
 - [Free VS Open Source Video Editors](https://youtu.be/TJDJoD5Upp0)
